@@ -20,3 +20,7 @@ project/plugins/project/
 *.iml
 project/
 target/
+src/test/
+src/main/java/
+src/main/scala/
+src/main/resources/
